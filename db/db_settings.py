@@ -1,0 +1,5 @@
+drv = 'postgresql'
+login = 'verdgil'
+passwd = '0000'
+address = 'localhost'
+name = 'nii_test_zadanie'
